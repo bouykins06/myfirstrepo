@@ -1,0 +1,22 @@
+site for Ricardo Klinger
+http://www.digital-geography.com/
+
+http://www.ryerson.ca/madar/geospatial/internet/open/index.html
+
+Free QGis tuitorials
+http://foss4geo.org 
+
+GIS courses with certification
+http://slashgeo.org/2012/03/14/17-Free-GIS-ESRI-Courses-Professional-Certifications/
+
+lEARNING OPENSTREET MAP
+http://www.digital-geography.com/use-openstreetmap-guides-beginners-advanced-users-learnosm-org/#.VFDbE2xwbIV
+
+Introduction to GIS modelling and python by Pennsate Universtiy
+https://www.e-education.psu.edu/geog485/
+
+Cartography and visualization
+https://www.e-education.psu.edu/geog486/home.html
+
+GIS cafe
+http://www10.giscafe.com/EVENT/index.php
